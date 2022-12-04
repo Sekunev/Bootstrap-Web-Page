@@ -4,7 +4,7 @@
 
 ### Visualization of the Website
 
-![image](https://user-images.githubusercontent.com/101554737/189495711-a7c54c5a-ecdc-4c03-845f-168295438881.png)
+![image](https://github.com/Sekunev/Bootstrap-Web-Page/blob/main/Animation.gif)
 
 ### Overview
 
