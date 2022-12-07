@@ -1,4 +1,4 @@
-# Pınarbaşı_Restaurant
+# Pinarbaşi_Restaurant
 
 ### Check The Live Website ➡️ [Live Website](https://sekunev.github.io/Projects/25_Bootstrap-Web-Page/)
 
